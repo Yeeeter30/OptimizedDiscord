@@ -1,5 +1,7 @@
-Basically Optimizing discord current latest stable version is:
+Optimized Discord Version Notice
 
-Discord_v284.14 - Stable(284014)
+The current latest stable version of Discord Optimized is:
 
-I have no Contact information currently so please be patient Discord if you eould like too contact me but for now have fun using Discord Optimized!
+Discord v284.14 – Stable (284014)
+
+At the moment, I do not have any contact information available. Please be patient, Discord, if you wish to reach out. In the meantime, enjoy using the optimized version of Discord!
