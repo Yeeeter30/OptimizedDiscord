@@ -5,7 +5,8 @@ Latest Stable Version:
 # (Official Discord Stable)
 
 Latest Beta Version:
-# Discord v285.12 – Beta (285112) (Official Discord Beta)
+# Discord v285.12 – Beta (285112)
+# (Official Discord Beta)
 
 Latest Alpha Version:
 # Discord v286.5 - Alpha (286205)
