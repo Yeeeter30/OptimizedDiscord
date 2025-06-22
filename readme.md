@@ -14,4 +14,4 @@ Latest Alpha Version:
 
 At this time, I do not have any contact information available. If Discord wishes to reach out, please be patient.
 
-In the meantime, enjoy using Discord Optimized — built for performance and compatibility!
+In the meantime, enjoy using Optimized Discord — built for performance and compatibility!
